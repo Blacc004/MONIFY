@@ -14,7 +14,7 @@
   --text-color-light: hsl(var(--hue), 4%, 55%);
 
   /*Green gradient*/
-  --body-color: white;
+  --body-color: hsl(var(--hue), 91%, 54%);
   --container-color: black;
   
   /*Red gradient*/
